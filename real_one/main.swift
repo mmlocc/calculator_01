@@ -79,5 +79,3 @@ if let input = readLine() {
         print("\(result) 입니다.")
     }
 }
-
-// TEST
